@@ -5,7 +5,11 @@ body {
 }
 
 header {
+<<<<<<< HEAD
     background-color: #333;
+=======
+    background-color: black;
+>>>>>>> Development-1.0
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -81,7 +85,11 @@ header {
   }
 
 footer {
+<<<<<<< HEAD
     background-color: black;
+=======
+    background-color: #333;
+>>>>>>> Development-1.0
     color: #fff;
     text-align: center;
     padding: 1px;
