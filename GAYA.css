@@ -85,14 +85,10 @@ header {
   }
 
 footer {
-<<<<<<< HEAD
     background-color: black;
-=======
-    background-color: #333;
->>>>>>> Development-1.0
     color: #fff;
     text-align: center;
-    padding: 1px;
+    padding: 2px;
     position: fixed;
     bottom: 0;
     width: 100%;
