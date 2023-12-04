@@ -5,7 +5,11 @@ body {
 }
 
 header {
+<<<<<<< HEAD
+    background-color: #333;
+=======
     background-color: black;
+>>>>>>> Development-1.0
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -84,7 +88,7 @@ footer {
     background-color: black;
     color: #fff;
     text-align: center;
-    padding: 1px;
+    padding: 2px;
     position: fixed;
     bottom: 0;
     width: 100%;
