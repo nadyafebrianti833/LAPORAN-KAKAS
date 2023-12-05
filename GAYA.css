@@ -5,19 +5,14 @@ body {
 }
 
 header {
-<<<<<<< HEAD
-    background-color: #333;
-=======
     background-color: black;
->>>>>>> Development-1.0
     color: #fff;
     text-align: center;
     padding: 1em;
 }
 
-.profile-section {
+.profile-job {
     text-align: center;
-    margin: 20px;
 }
 
 .profile-section img {
